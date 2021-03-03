@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><!--suppress CheckTagEmptyBody -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+    <!-- Make sure to put at least 8 icons -->
+    <string-array name="icons_preview">
+        <item>wechat</item>
+        <item>qq</item>
+        <item>alipay</item>
+    </string-array>
+
+    <!-- These sections below are for your "Previews" section -->
+    <!-- These names should match YOUR actual icon names
+    	 the names used below are just for sampling purposes -->
+
+    <!-- Make sure the filters names are the same as the other arrays -->
+    <string-array name="icon_filters">
+        <item>热门</item>
+    </string-array>
+
+    <string-array name="热门">
+        <item>wechat</item>
+        <item>qq</item>
+        <item>alipay</item>
+    </string-array>
+
+</resources>

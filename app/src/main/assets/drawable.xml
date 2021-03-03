@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <version>1</version>
+
+    <category title="全部" />
+    <item drawable="qq" />
+    <item drawable="wechat" />
+    <item drawable="alipay" />
+</resources>

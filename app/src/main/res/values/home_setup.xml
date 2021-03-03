@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?><!--suppress CheckTagEmptyBody -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingDefaultResource">
+    <!--
+        Home actions style ==> Share / Rate / Donate buttons
+        0. Hidden
+        1. Small
+        2. Big
+    -->
+    <integer name="home_actions_style">1</integer>
+
+    <!--
+        Do you want to show overview in home section?
+        True, means yes.
+        False, means no.
+    -->
+    <bool name="show_overview">true</bool>
+
+    <!--
+        Do you want the quick apply button to show its text?
+        True, means yes.
+        False, means no.
+    -->
+    <bool name="show_quick_apply_text">true</bool>
+
+    <!--
+        Set a custom text to the quick apply button.
+        Be sure to add translations, or it might not be shown in other languages.
+        Leave empty for the app to use the default "Quick Apply" text
+    -->
+    <string name="quick_apply_custom_text"></string>
+
+    <!-- These arrays are for the list of apps or links in main section. -->
+    <string-array name="home_list_titles">
+        <item>MIUI 完美图标补全计划</item>
+        <item>Telegram 频道</item>
+        <item>Github 项目地址</item>
+    </string-array>
+    <string-array name="home_list_descriptions">
+        <item>为 MIUI 准备的项目，同时也是本图标包的起源项目。</item>
+        <item>获得项目的最新进展以及更快的适配。</item>
+        <item>感谢 Blueprint，基于此构建本应用。</item>
+    </string-array>
+    <string-array name="home_list_icons">
+        <item>ic_miui</item>
+        <item>ic_telegram</item>
+        <item>ic_github</item>
+    </string-array>
+    <string-array name="home_list_links">
+        <item>https://github.com/pzcn/MIUI-Adapted-Icons-Complement-Project</item>
+        <item>https://t.me/miuiicons</item>
+        <item>https://github.com/pzcn/Meta-Icon-Pack</item>
+    </string-array>
+</resources>
