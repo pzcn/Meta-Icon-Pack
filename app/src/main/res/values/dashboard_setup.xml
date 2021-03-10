@@ -6,7 +6,7 @@
         Create a new drawable and put its name here (without extension)
         Note: it will only be shown in the main section
     -->
-    <string name="toolbar_logo"></string>
+    <string name="toolbar_logo">logo</string>
 
     <!--
     Do you want notifications to be enabled for all your users?

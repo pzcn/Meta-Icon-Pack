@@ -17,10 +17,9 @@ jobs:
           java-version: 1.8
       - name: Retrieve version
         run: |
-          echo VERSION=$(echo ${{ github.event.head_commit.id }} | head -c 8) >> $GITHUB_ENV
-
+          echo VERSION=$(echo ${{ github.event.head_commit.id }} | head -c 10) >> $GITHUB_ENV
       - name: Build with Gradle
-        run: bash ./gradlew assembleRelease
+        run: bash ./gradlew -PappVerName=${{ env.VERSION }} assembleRelease
         
       - name: Sign Android release
         if: success()

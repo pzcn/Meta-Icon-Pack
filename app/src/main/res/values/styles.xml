@@ -42,7 +42,7 @@
             - selected
             Learn more: https://developer.android.com/reference/com/google/android/material/bottomnavigation/LabelVisibilityMode
         -->
-        <item name="labelVisibilityMode">labeled</item>
+        <item name="labelVisibilityMode">selected</item>
     </style>
 
 </resources>

@@ -3,9 +3,14 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-        <item>wechat</item>
-        <item>qq</item>
-        <item>alipay</item>
+        <item>comtencentmm</item>
+        <item>comtaobaotaobao</item>
+        <item>tvdanmakubili</item>
+        <item>comtencentmobileqq</item>
+        <item>comegandroidalipaygphone</item>
+        <item>comtencenttmgpsupercellbrawlstars</item>
+        <item>comzhihuandroid</item>
+        <item>comjingdongappmall</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
