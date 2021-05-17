@@ -97,6 +97,4 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation project(':library')
-    // TODO: Remove comment marks to enable
-    // implementation Libs.oneSignal
 }
