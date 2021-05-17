@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <item
         component="ComponentInfo{air.com.adobe.pstouchphone/air.com.adobe.pstouchphone.AppEntry}"
         drawable="aircomadobepstouchphone" />
@@ -3389,4 +3390,5 @@
     <item
         component="ComponentInfo{114514}"
         drawable="zhaoqqmusichacker" />
+
 </resources>

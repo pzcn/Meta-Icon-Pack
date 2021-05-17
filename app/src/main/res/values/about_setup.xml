@@ -4,6 +4,7 @@
         <item>https://ftp.bmp.ovh/imgs/2021/03/04dae38304f91831.jpg</item>
         <item>https://ftp.bmp.ovh/imgs/2021/03/269e14dd675989cf.jpg</item>
         <item>https://ftp.bmp.ovh/imgs/2021/03/0b92d8910050e59a.jpg</item>
+        <item>https://cdn.jsdelivr.net/gh/YuKongA/HomePage@main/YuKongA.png</item>
         <item>https://ftp.bmp.ovh/imgs/2021/03/6ef896ea3e180fa0.jpg</item>
         <item>https://pic.rmb.bdstatic.com/bjh/a4022ca51f6e2309e69afc2b96f9b039.jpeg</item>
     </string-array>
@@ -12,6 +13,7 @@
         <item>PedroZ</item>
         <item>Yife Playte</item>
         <item>潮留美海かり</item>
+        <item>YuKongA</item>
         <item>TaiPresident</item>
         <item>其他参与图标绘制的朋友</item>
     </string-array>
@@ -20,23 +22,27 @@
         <item>参与图标绘制，APP开发</item>
         <item>参与图标绘制、协助APP开发</item>
         <item>绘制大量图标</item>
+        <item>咸鱼</item>
         <item>协助APP开发</item>
-        <item>@Eirperuier @世界第一小莲儿 @Mastiff Li @Shahzaib Ahmed</item>
+        <item>@Eirperuier @世界第一小莲儿
+            @Mastiff Li @Shahzaib Ahmed</item>
     </string-array>
 
     <string-array name="credits_buttons">
         <item>Telegram|Coolapk</item>
         <item>Telegram|Coolapk</item>
         <item>Coolapk</item>
-        <item></item>
-        <item></item>
+        <item>Coolapk</item>
+        <item> </item>
+        <item> </item>
     </string-array>
 
     <string-array name="credits_links">
         <item>https://t.me/MIUI_Icons_Service|http://www.coolapk.com/u/1157881</item>
         <item>https://t.me/Yife_Playte|http://www.coolapk.com/u/2222314</item>
-        <item>http://www.coolapk.com/u/3701042</item>
-        <item></item>
-        <item></item>
+        <item>https://www.coolapk.com/u/3701042</item>
+        <item>https://www.coolapk.com/u/680367</item>
+        <item> </item>
+        <item> </item>
     </string-array>
 </resources>

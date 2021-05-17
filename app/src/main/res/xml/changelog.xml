@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="v1.0.1" />
-    <item text="The second version" />
-    <item text="增加：米窗 小猿搜题 Muse Dash 运动世界校园 掌上英雄联盟 招商银行 云课堂智慧职教" />
+    <version title="v1.0.2" />
+    <item text="Update to Blueprint 2.2.2" />
 </resources>

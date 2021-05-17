@@ -37,8 +37,8 @@
     <string name="email">someone@email.com</string>
 
     <!-- Mail subjects for simple e-mail and requests e-mail -->
-    <string name="email_subject">Blueprint</string>
-    <string name="request_title">Blueprint Icon Request</string>
+    <string name="email_subject">Meta-Icon</string>
+    <string name="request_title">Meta-Icon Request</string>
 
     <!--
     1. Set the max amount of apps to request.

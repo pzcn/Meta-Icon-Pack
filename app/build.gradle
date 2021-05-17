@@ -1,6 +1,6 @@
 apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
-apply plugin: 'kotlin-android-extensions'
+apply plugin: 'kotlin-parcelize'
 apply plugin: 'kotlin-kapt'
 
 android {
@@ -20,6 +20,7 @@ android {
     }
 
     compileSdkVersion Versions.targetSdk
+    buildToolsVersion Versions.buildTools
 
     defaultConfig {
         manifestPlaceholders = [
@@ -51,6 +52,7 @@ android {
             debuggable false
             zipAlignEnabled true
             minifyEnabled true
+            shrinkResources false
             proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
             consumerProguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
             signingConfig signingConfigs.release
@@ -61,6 +63,13 @@ android {
         main.java.srcDirs += 'src/main/kotlin'
     }
 
+    packagingOptions {
+        pickFirst 'META-INF/core_debug.kotlin_module'
+        pickFirst 'META-INF/core_release.kotlin_module'
+        pickFirst 'META-INF/library_debug.kotlin_module'
+        pickFirst 'META-INF/library_release.kotlin_module'
+    }
+
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
@@ -68,15 +77,6 @@ android {
 
     kotlinOptions {
         jvmTarget = '1.8'
-    }
-    packagingOptions {
-        exclude("META-INF/androidx.**")
-        exclude("META-INF/services/kotlinx.**")
-        exclude("META-INF/**.kotlin_module")
-        exclude("META-INF/**.version")
-        exclude("**.kotlin_builtins")
-        exclude("**.kotlin_metadata")
-        exclude("kotlin/**")
     }
 }
 
