@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:android="http://schemas.android.com/apk/res/android">
+<resources>
     <item
         component="ComponentInfo{air.com.adobe.pstouchphone/air.com.adobe.pstouchphone.AppEntry}"
         drawable="aircomadobepstouchphone" />
@@ -14,6 +14,9 @@
         drawable="airtvdouyuandroid" />
     <item
         component="ComponentInfo{114514}"
+        drawable="aizuoyeapp" />
+    <item
+        component="ComponentInfo{114514}"
         drawable="allparttimeguidesystem" />
     <item
         component="ComponentInfo{android.zhibo8/android.zhibo8.ui.contollers.main.LaunchActivity}"
@@ -21,6 +24,9 @@
     <item
         component="ComponentInfo{android.zhibo8/com.qihoo.util.StartActivity}"
         drawable="androidzhibo8" />
+    <item
+        component="ComponentInfo{114514}"
+        drawable="anpeicomanpei" />
     <item
         component="ComponentInfo{114514}"
         drawable="appbbnewsjy" />
@@ -59,10 +65,16 @@
         drawable="bubeitingshupro" />
     <item
         component="ComponentInfo{114514}"
+        drawable="cccnuswiftcnu" />
+    <item
+        component="ComponentInfo{114514}"
         drawable="ccdingnetyunfangp" />
     <item
         component="ComponentInfo{114514}"
         drawable="ccseptnetscholar" />
+    <item
+        component="ComponentInfo{114514}"
+        drawable="ceuilisapixiv" />
     <item
         component="ComponentInfo{114514}"
         drawable="chilixposedchimi" />
@@ -73,8 +85,14 @@
         component="ComponentInfo{cmb.pb/cmb.pb.launch.PBInitActivity}"
         drawable="cmbpb" />
     <item
+        component="ComponentInfo{cmb.pb/cmb.pb.app.mainframe.container.PBMainActivity}"
+        drawable="cmbpb" />
+    <item
         component="ComponentInfo{cmccwm.mobilemusic/cmccwm.mobilemusic.ui.base.SplashActivity}"
         drawable="cmccwmmobilemusic" />
+    <item
+        component="ComponentInfo{114514}"
+        drawable="cnbeekeezhongtong" />
     <item
         component="ComponentInfo{114514}"
         drawable="cnbigfun" />
@@ -82,8 +100,20 @@
         component="ComponentInfo{114514}"
         drawable="cnbkwcpa" />
     <item
+        component="ComponentInfo{114514}"
+        drawable="cncaocaokejiuser" />
+    <item
+        component="ComponentInfo{114514}"
+        drawable="cncntv" />
+    <item
+        component="ComponentInfo{114514}"
+        drawable="cncntvnews" />
+    <item
         component="ComponentInfo{cn.coldsong.fusionapp/com.androlua.Welcome}"
         drawable="cncoldsongfusionapp" />
+    <item
+        component="ComponentInfo{114514}"
+        drawable="cncombroadlinkecontrolinternational" />
     <item
         component="ComponentInfo{cn.com.cmbc.newmbank/cn.com.cmbc.newmbank.activity.WelComeActivity}"
         drawable="cncomcmbcnewmbank" />
@@ -116,6 +146,15 @@
         drawable="cncomwhtyhfcard" />
     <item
         component="ComponentInfo{114514}"
+        drawable="cncomxibxibpbv3" />
+    <item
+        component="ComponentInfo{114514}"
+        drawable="cndeepinkreader" />
+    <item
+        component="ComponentInfo{114514}"
+        drawable="cndoocomwemustcampus" />
+    <item
+        component="ComponentInfo{114514}"
         drawable="cndostudioappwajie" />
     <item
         component="ComponentInfo{114514}"
@@ -131,6 +170,15 @@
         drawable="cnhsaapp" />
     <item
         component="ComponentInfo{cn.kuwo.player/cn.kuwo.player.activities.EntryActivity}"
+        drawable="cnkuwoplayer" />
+    <item
+        component="ComponentInfo{114514}"
+        drawable="cnlezhispeedtest" />
+    <item
+        component="ComponentInfo{114514}"
+        drawable="cnhsaapp" />
+    <item
+        component="ComponentInfo{114514}"
         drawable="cnkuwoplayer" />
     <item
         component="ComponentInfo{114514}"
@@ -187,14 +235,26 @@
         component="ComponentInfo{cn.wsds.gamemaster/cn.wsds.gamemaster.ui.ActivityStart}"
         drawable="cnwsdsgamemaster" />
     <item
+        component="ComponentInfo{114514}"
+        drawable="cnxiaochuankejitieba" />
+    <item
         component="ComponentInfo{cn.xiaochuankeji.zuiyouLite/cn.xiaochuankeji.zuiyouLite.ui.splash.SplashActivity}"
         drawable="cnxiaochuankejizuiyoulite" />
+    <item
+        component="ComponentInfo{114514}"
+        drawable="cnxuexiandroid" />
+    <item
+        component="ComponentInfo{114514}"
+        drawable="cnxylinmistep" />
     <item
         component="ComponentInfo{114514}"
         drawable="cnxylinmiuistepmanage" />
     <item
         component="ComponentInfo{cn.zymk.comic/cn.zymk.comic.ui.CoverActivity}"
         drawable="cnzymkcomic" />
+    <item
+        component="ComponentInfo{114514}"
+        drawable="coma17zuoyemobilehomework" />
     <item
         component="ComponentInfo{com.able.wisdomtree/com.able.wisdomtree.login.StartActivity}"
         drawable="comablewisdomtree" />
@@ -222,6 +282,7 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comaikecheng" />
+    <item component="ComponentInfo{114514}" drawable="comaipaohanmoveschool" />
     <item
         component="ComponentInfo{com.airbnb.android/com.airbnb.android.flavor.full.activities.HomeActivity}"
         drawable="comairbnbandroid" />
@@ -258,6 +319,7 @@
     <item
         component="ComponentInfo{com.allhistory.dls.marble/com.pwrd.dls.marble.other.activity.SplashActivity}"
         drawable="comallhistorydlsmarble" />
+    <item component="ComponentInfo{114514}" drawable="comallnowglobalapp" />
     <item
         component="ComponentInfo{114514}"
         drawable="comamazfitwatchfacesst" />
@@ -378,6 +440,7 @@
     <item
         component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.RecordListActivity}"
         drawable="comandroidsoundrecorder" />
+    <item component="ComponentInfo{114514}" drawable="comandroiddazhihui" />
     <item
         component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}"
         drawable="comandroidstk" />
@@ -399,6 +462,7 @@
     <item
         component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}"
         drawable="comandroidvending" />
+    <item component="ComponentInfo{114514}" drawable="comandroidvendingassetbrowseractivity" />
     <item
         component="ComponentInfo{114514}"
         drawable="comandromedaandrobench2" />
@@ -408,6 +472,8 @@
     <item
         component="ComponentInfo{com.anjuke.android.app/com.anjuke.android.app.WelcomeActivity}"
         drawable="comanjukeandroidapp" />
+    <item component="ComponentInfo{114514}" drawable="comantfortunewealth" />
+    <item component="ComponentInfo{114514}" drawable="comapinskylite2048" />
     <item
         component="ComponentInfo{com.apkpure.aegon/com.apkpure.aegon.activities.SplashActivity}"
         drawable="comapkpureaegon" />
@@ -432,6 +498,7 @@
     <item
         component="ComponentInfo{com.asus.aihome/com.asus.aihome.MainActivity}"
         drawable="comasusaihome" />
+    <item component="ComponentInfo{114514}" drawable="comataawtianyi" />
     <item
         component="ComponentInfo{com.autonavi.minimap/com.autonavi.map.activity.SplashActivity}"
         drawable="comautonaviminimap" />
@@ -444,6 +511,7 @@
     <item
         component="ComponentInfo{com.baidu.baidutranslate/com.baidu.baidutranslate.activity.SplashActivity}"
         drawable="combaidubaidutranslate" />
+    <item component="ComponentInfo{114514}" drawable="combaiducarlife" />
     <item
         component="ComponentInfo{com.baidu.haokan/com.baidu.haokan.app.activity.splash.SplashActivity}"
         drawable="combaiduhaokan" />
@@ -471,6 +539,7 @@
     <item
         component="ComponentInfo{com.baidu.tieba/com.baidu.tieba.LogoActivity}"
         drawable="combaidutieba" />
+    <item component="ComponentInfo{114514}" drawable="combaidutiebamini" />
     <item
         component="ComponentInfo{com.baidu.video/com.baidu.video.ui.WelcomActivity}"
         drawable="combaiduvideo" />
@@ -498,12 +567,16 @@
     <item
         component="ComponentInfo{com.bankcomm.maidanba/com.bankcomm.maidanba.activity.SplashActivity}"
         drawable="combankcommmaidanba" />
+
+    <item component="ComponentInfo{114514}" drawable="combdjvortexdroid" />
     <item
         component="ComponentInfo{com.benqu.wuta/com.benqu.wuta.activities.splash.SplashActivity}"
         drawable="combenquwuta" />
     <item
         component="ComponentInfo{114514}"
         drawable="combige0shadowsocksr" />
+    <item component="ComponentInfo{114514}" drawable="combigemapearth" />
+    <item component="ComponentInfo{114514}" drawable="combigtrueorzmic" />
     <item
         component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.ui.splash.SplashActivity}"
         drawable="combilibiliappin" />
@@ -513,6 +586,10 @@
     <item
         component="ComponentInfo{com.bilibili.star.bili/com.bilibili.star.permission.PermissionActivity}"
         drawable="combilibilistarbili" />
+    <item component="ComponentInfo{114514}" drawable="combilibilipalm" />
+    <item component="ComponentInfo{114514}" drawable="combilibilipriconne" />
+    <item component="ComponentInfo{114514}" drawable="combilibilistarbili" />
+    <item component="ComponentInfo{114514}" drawable="combilibilistudio" />
     <item
         component="ComponentInfo{com.biquge.book.noverls/com.biquge.book.noverls.activity.LuanchActivity}"
         drawable="combiqugebooknoverls" />
@@ -522,12 +599,17 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comblacksharkfluttertoolbox" />
+    <item component="ComponentInfo{114514}" drawable="comblacksharkgamecontroller" />
     <item
         component="ComponentInfo{com.black.unique/com.black.unique.feature.home.HomeActivity}"
         drawable="comblackunique" />
     <item
         component="ComponentInfo{com.blizzard.bma/com.blizzard.bma.ui.welcome.SplashActivity}"
         drawable="comblizzardbma" />
+    <item component="ComponentInfo{114514}" drawable="comblizzardbmacn" />
+    <item component="ComponentInfo{114514}" drawable="comblizzardmessenger" />
+    <item component="ComponentInfo{114514}" drawable="combmccmsui" />
+    <item component="ComponentInfo{114514}" drawable="combocmacaucom" />
     <item
         component="ComponentInfo{com.boohee.one/com.boohee.one.ui.SplashActivity}"
         drawable="combooheeone" />
@@ -540,9 +622,11 @@
     <item
         component="ComponentInfo{com.byfen.market/com.byfen.market.mvp.impl.view.aty.SplashActivity}"
         drawable="combyfenmarket" />
+    <item component="ComponentInfo{114514}" drawable="combyteofweatherwy" />
     <item
         component="ComponentInfo{114514}"
         drawable="combyyoungsetting" />
+    <item component="ComponentInfo{114514}" drawable="comcaijing" />
     <item
         component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.view.activity.WelcomeActivity}"
         drawable="comcainiaowireless" />
@@ -603,6 +687,7 @@
     <item
         component="ComponentInfo{com.chinarainbow.tft/com.chinarainbow.tft.mvp.ui.activity.SplashActivity}"
         drawable="comchinarainbowtft" />
+    <item component="ComponentInfo{114514}" drawable="comchinatelecombestpayclient" />
     <item
         component="ComponentInfo{114514}"
         drawable="comchinasoso" />
@@ -612,15 +697,19 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comcjtecuncompress" />
+    <item component="ComponentInfo{114514}" drawable="comcicteczhaoqingintelligencetravel" />
     <item
         component="ComponentInfo{com.cleanmaster.mguard/com.keniu.security.main.MainActivity}"
         drawable="comcleanmastermguardcn" />
     <item
         component="ComponentInfo{114514}"
         drawable="comcleanmastersecuritycn" />
+    <item component="ComponentInfo{114514}" drawable="comcloudbaelovenanning" />
+    <item component="ComponentInfo{114514}" drawable="comcloverdaysmatter" />
     <item
         component="ComponentInfo{com.clover.idaily/com.clover.idaily.ui.activity.MainActivity}"
         drawable="comcloveridaily" />
+    <item component="ComponentInfo{114514}" drawable="comcmbcccmbank" />
     <item
         component="ComponentInfo{com.cmcc.cmvideo/com.cmcc.cmvideo.splash.SplashActivity}"
         drawable="comcmcccmvideo" />
@@ -630,6 +719,7 @@
     <item
         component="ComponentInfo{com.cn21.ecloud/com.cn21.ecloud.activity.StartActivity}"
         drawable="comcn21ecloud" />
+    <item component="ComponentInfo{114514}" drawable="comcnbizmediashangjie" />
     <item
         component="ComponentInfo{114514}"
         drawable="comcoderstorytoolkit" />
@@ -639,6 +729,7 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comcolobolochainball" />
+    <item component="ComponentInfo{114514}" drawable="comcolorosrelax" />
     <item
         component="ComponentInfo{114514}"
         drawable="comcomicmanhuatai" />
@@ -657,18 +748,21 @@
     <item
         component="ComponentInfo{com.crgt.ilife/com.crgt.ilife.plugin.sessionmanager.fg.main.NewSplashActivity}"
         drawable="comcrgtilife" />
+    <item component="ComponentInfo{114514}" drawable="comcsairmbp" />
     <item
         component="ComponentInfo{com.cs_credit_bank/com.alipay.mobile.quinox.LauncherActivity}"
         drawable="comcscreditbank" />
     <item
         component="ComponentInfo{114514}"
         drawable="comcsgpalmhall" />
+    <item component="ComponentInfo{114514}" drawable="comcsiixm" />
     <item
         component="ComponentInfo{com.ctc.itv.yueme/com.ctc.itv.yueme.LoadingActivity}"
         drawable="comctcitvyueme" />
     <item
         component="ComponentInfo{com.ct.client/com.ct.client.SplashActivity}"
         drawable="comctclient" />
+    <item component="ComponentInfo{114514}" drawable="comctfile" />
     <item
         component="ComponentInfo{114514}"
         drawable="comctripjr" />
@@ -681,6 +775,7 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comcysuotou" />
+    <item component="ComponentInfo{114514}" drawable="comczbchezhubang" />
     <item
         component="ComponentInfo{114514}"
         drawable="comczy0729bangumi" />
@@ -693,6 +788,7 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comdancerail3soragame" />
+    <item component="ComponentInfo{114514}" drawable="comdandelionroutine" />
     <item
         component="ComponentInfo{com.dangdang.buy2/com.dangdang.buy2.StartupActivity}"
         drawable="comdangdangbuy2" />
@@ -702,6 +798,8 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comdaofengzuhaowan" />
+    <item component="ComponentInfo{114514}" drawable="comdashboardkotlin" />
+    <item component="ComponentInfo{114514}" drawable="comdatongdict" />
     <item
         component="ComponentInfo{com.dctimer/com.dctimer.DCTimer}"
         drawable="comdctimer" />
@@ -759,9 +857,11 @@
     <item
         component="ComponentInfo{com.douyu.rush/com.douyu.rush.splash.launcher.DYLauncherActivity}"
         drawable="comdouyurush" />
+    <item component="ComponentInfo{114514}" drawable="comdpandroidelong" />
     <item
         component="ComponentInfo{com.dragon.read/com.dragon.read.pages.splash.SplashActivity}"
         drawable="comdragonread" />
+    <item component="ComponentInfo{114514}" drawable="comdroiadockerpro" />
     <item
         component="ComponentInfo{114514}"
         drawable="comduoduochildstory" />
@@ -783,6 +883,8 @@
     <item
         component="ComponentInfo{com.duxiaoman.umoney/com.duxiaoman.umoney.home.SplashActivity}"
         drawable="comduxiaomanumoney" />
+    <item component="ComponentInfo{114514}" drawable="comeastmoneyandroidfund" />
+    <item component="ComponentInfo{114514}" drawable="comebankcreditcard" />
     <item
         component="ComponentInfo{com.ebay.mobile/com.ebay.mobile.activities.MainActivity}"
         drawable="comebaymobile" />
@@ -804,6 +906,7 @@
     <item
         component="ComponentInfo{com.elong.hotel.ui/com.elong.activity.others.AppGuidActivity}"
         drawable="comelonghotelui" />
+    <item component="ComponentInfo{114514}" drawable="comelpatrixfouo" />
     <item
         component="ComponentInfo{114514}"
         drawable="comeoffcnmobile" />
@@ -825,6 +928,7 @@
     <item
         component="ComponentInfo{com.eusoft.ting.en/com.eusoft.ting.ui.view.WelcomeActivity}"
         drawable="comeusofttingen" />
+    <item component="ComponentInfo{114514}" drawable="comevideomobilektv" />
     <item
         component="ComponentInfo{114514}"
         drawable="comexamplea73233carefree" />
@@ -837,6 +941,7 @@
     <item
         component="ComponentInfo{com.example.calculatorforprogrammer/com.example.calculatorforprogrammer.AdActivity}"
         drawable="comexamplecalculatorforprogrammer" />
+    <item component="ComponentInfo{114514}" drawable="comexampledrcwtongzhi" />
     <item
         component="ComponentInfo{114514}"
         drawable="comexampleliabarcarandroid" />
@@ -867,9 +972,11 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comfanhuan" />
+    <item component="ComponentInfo{114514}" drawable="comfantuankanshujbk" />
     <item
         component="ComponentInfo{com.farplace.qingzhuo/com.farplace.qingzhuo.views.MainActivity}"
         drawable="comfarplaceqingzhuo" />
+    <item component="ComponentInfo{114514}" drawable="comfenbiandroidleo" />
     <item
         component="ComponentInfo{114514}"
         drawable="comfenbiandroidleo" />
@@ -878,6 +985,9 @@
         drawable="comfenbiandroidservant" />
     <item
         component="ComponentInfo{com.fenbi.android.solar/com.fenbi.android.solar.activity.SplashActivity}"
+        drawable="comfenbiandroidsolar" />
+    <item
+        component="ComponentInfo{com.fenbi.android.solar/com.fenbi.android.solar.activity.RouterActivity}"
         drawable="comfenbiandroidsolar" />
     <item
         component="ComponentInfo{114514}"
@@ -894,6 +1004,7 @@
     <item
         component="ComponentInfo{com.findtheway/com.findtheway.activity.MainActivity}"
         drawable="comfindtheway" />
+    <item component="ComponentInfo{114514}" drawable="comfiveplay" />
     <item
         component="ComponentInfo{114514}"
         drawable="comfkzhangqqxposed" />
@@ -912,12 +1023,14 @@
     <item
         component="ComponentInfo{com.fooview.android.fooview/com.fooview.android.fooview.MainActivity}"
         drawable="comfooviewandroidfooview" />
+    <item component="ComponentInfo{114514}" drawable="comforms" />
     <item
         component="ComponentInfo{114514}"
         drawable="comfosunglighthouse" />
     <item
         component="ComponentInfo{114514}"
         drawable="comfoxtools" />
+    <item component="ComponentInfo{114514}" drawable="comfujifilmdscappremoteshooter" />
     <item
         component="ComponentInfo{114514}"
         drawable="comfungoxmsport" />
@@ -927,6 +1040,8 @@
     <item
         component="ComponentInfo{com.gameabc.sgspad/org.cocos2dx.lua.AppActivity}"
         drawable="comgameabcsgspad" />
+    <item component="ComponentInfo{114514}" drawable="comgamersky" />
+    <item component="ComponentInfo{114514}" drawable="comganjiandroid" />
     <item
         component="ComponentInfo{com.ganji.android/com.ganji.android.home.activity.LaunchActivity}"
         drawable="comganjiandroidhaochec" />
@@ -963,6 +1078,7 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comgoogleandroidtvremote" />
+    <item component="ComponentInfo{114514}" drawable="comgoogleearth" />
     <item
         component="ComponentInfo{com.gorgeous.lite/com.light.beauty.login.LoadingPageActivity}"
         drawable="comgorgeouslite" />
@@ -993,6 +1109,10 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comgumispokenenglish" />
+    <item component="ComponentInfo{114514}" drawable="comguotaidazhihui" />
+    <item component="ComponentInfo{114514}" drawable="comgxrcwactivity" />
+    <item component="ComponentInfo{114514}" drawable="comhaieruhomewasher" />
+    <item component="ComponentInfo{114514}" drawable="comhalfbrickfruitninjax" />
     <item
         component="ComponentInfo{com.halo.wifikey.wifilocating/com.lantern.launcher.ui.MainActivity}"
         drawable="comhalowifikeywifilocating" />
@@ -1008,6 +1128,7 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comhbmccheshenghuo" />
+    <item component="ComponentInfo{114514}" drawable="comhchmiuihd" />
     <item
         component="ComponentInfo{com.hecorat.screenrecorder.free/com.hecorat.screenrecorder.free.activities.MainActivity}"
         drawable="comhecoratscreenrecorderfree" />
@@ -1017,6 +1138,7 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comhegudnlmi" />
+    <item component="ComponentInfo{114514}" drawable="comhexinandroidfutures" />
     <item
         component="ComponentInfo{114514}"
         drawable="comhexinandroidfutures" />
@@ -1029,6 +1151,9 @@
     <item
         component="ComponentInfo{com.hf/com.hf.activitys.WelcomeActivity}"
         drawable="comhf" />
+    <item component="ComponentInfo{114514}" drawable="comhfhuaizhislide" />
+    <item component="ComponentInfo{114514}" drawable="comhicorenationalantifraud" />
+    <item component="ComponentInfo{114514}" drawable="comhihanhanone" />
     <item
         component="ComponentInfo{com.hippo.ehviewer/com.hippo.ehviewer.ui.MainActivity}"
         drawable="comhippoehviewer" />
@@ -1047,6 +1172,9 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comhpbrdirecthires" />
+    <item component="ComponentInfo{114514}" drawable="comhuaermooc" />
+    <item component="ComponentInfo{114514}" drawable="comhuanmengzhanjian2" />
+    <item component="ComponentInfo{114514}" drawable="comhuaweiadochongqing" />
     <item
         component="ComponentInfo{114514}"
         drawable="comhuaweigenexcloudspeedtest" />
@@ -1062,6 +1190,9 @@
     <item
         component="ComponentInfo{com.hulu.plus/com.hulu.features.splash.SplashActivity}"
         drawable="comhuluplus" />
+    <item component="ComponentInfo{114514}" drawable="comhuluxiagametools" />
+    <item component="ComponentInfo{114514}" drawable="comhunantvimgoactivity" />
+    <item component="ComponentInfo{114514}" drawable="comhundsunmobilehsbrowsertest" />
     <item
         component="ComponentInfo{com.hunantv.imgo.activity/com.hunantv.imgo.activity.MainActivity}"
         drawable="comhunantvimgoactivity" />
@@ -1095,15 +1226,20 @@
     <item
         component="ComponentInfo{com.hypergryph.arknights/com.u8.sdk.U8UnityContext}"
         drawable="comhypergrypharknights" />
+    <item component="ComponentInfo{114514}" drawable="comhypergrypharknightsbilibili" />
+    <item component="ComponentInfo{114514}" drawable="comhywwwisdomtree" />
     <item
         component="ComponentInfo{com.icbc/com.icbc.activity.init.LoadingActivity}"
         drawable="comicbc" />
+    <item component="ComponentInfo{114514}" drawable="comicbcelife" />
+    <item component="ComponentInfo{114514}" drawable="comicbcemallmobile" />
     <item
         component="ComponentInfo{com.icbc.im/com.icbc.im.SplashActivity}"
         drawable="comicbcim" />
     <item
         component="ComponentInfo{com.icbc.im/com.icbc.im.ui.activity.LauncherActivity}"
         drawable="comicbcim" />
+    <item component="ComponentInfo{114514}" drawable="comichinaitgbpassenger" />
     <item
         component="ComponentInfo{com.ifext.news/com.ifeng.lite.MainActivity}"
         drawable="comifextnews" />
@@ -1128,6 +1264,9 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comilongyuancytus2bilibili" />
+    <item component="ComponentInfo{114514}" drawable="comilongyuancytus2lytaptap" />
+    <item component="ComponentInfo{114514}" drawable="comilongyuancytusly" />
+    <item component="ComponentInfo{114514}" drawable="comilongyuandeemoly" />
     <item
         component="ComponentInfo{com.ilongyuan.voez.ly/com.ilongyuan.voez.longyuan.android.MainActivity}"
         drawable="comilongyuanvoezly" />
@@ -1146,6 +1285,8 @@
     <item
         component="ComponentInfo{com.imo.android.imoim/com.imo.android.imoim.activities.Home}"
         drawable="comimoandroidimoim" />
+    <item component="ComponentInfo{114514}" drawable="cominnerslothspacemafia" />
+    <item component="ComponentInfo{114514}" drawable="cominspurunion" />
     <item
         component="ComponentInfo{com.innersloth.spacemafia/com.unity3d.player.UnityPlayerActivity}"
         drawable="cominnerslothspacemafia" />
@@ -1155,6 +1296,7 @@
     <item
         component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.WelcomeActivity}"
         drawable="comintsigcamscanner" />
+    <item component="ComponentInfo{114514}" drawable="comioncannoncpuburngpugflops" />
     <item
         component="ComponentInfo{114514}"
         drawable="comiqiyiivrcinemacb" />
@@ -1191,6 +1333,8 @@
     <item
         component="ComponentInfo{com.jd.pingou/com.jd.pingou.MainActivity}"
         drawable="comjdpingou" />
+    <item component="ComponentInfo{114514}" drawable="comjfm202203" />
+    <item component="ComponentInfo{114514}" drawable="comjfpaldspos" />
     <item
         component="ComponentInfo{com.jianshu.haruki/com.baiji.jianshu.ui.splash.SplashScreenActivity}"
         drawable="comjianshuharuki" />
@@ -1284,6 +1428,7 @@
     <item
         component="ComponentInfo{com.jxedt/com.jxedt.ui.activitys.GuideActivity}"
         drawable="comjxedt" />
+    <item component="ComponentInfo{114514}" drawable="comjylexiang" />
     <item
         component="ComponentInfo{com.jym.mall/com.jym.mall.launch.ui.SplashActivity}"
         drawable="comjymmall" />
@@ -1314,12 +1459,16 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comkkejinewsclient" />
+    <item component="ComponentInfo{114514}" drawable="comklcxkjzqxy" />
     <item
         component="ComponentInfo{com.kmxs.reader/com.km.app.home.view.LoadingActivity}"
         drawable="comkmxsreader" />
+    <item component="ComponentInfo{114514}" drawable="comkomectallinone" />
+    <item component="ComponentInfo{114514}" drawable="comkomectnetworkcore" />
     <item
         component="ComponentInfo{114514}"
         drawable="comkongzuetofuture" />
+    <item component="ComponentInfo{114514}" drawable="comkoudaiweidianbuyer" />
     <item
         component="ComponentInfo{114514}"
         drawable="comkuaiduizuoyescan" />
@@ -1350,12 +1499,14 @@
     <item
         component="ComponentInfo{com.kwai.m2u/com.kwai.m2u.launch.LaunchActivity}"
         drawable="comkwaim2u" />
+    <item component="ComponentInfo{114514}" drawable="comkwaivideoeditor" />
     <item
         component="ComponentInfo{com.kwai.videoeditor/com.kwai.videoeditor.activity.MainActivity}"
         drawable="comkwaivideoeditor" />
     <item
         component="ComponentInfo{com.lalamove.huolala.client/com.lalamove.huolala.client.MainActivity}"
         drawable="comlalamovehuolalaclient" />
+    <item component="ComponentInfo{114514}" drawable="comlalamovehuolalaclientc" />
     <item
         component="ComponentInfo{114514}"
         drawable="comlanjingerchoiassociatedpress" />
@@ -1368,6 +1519,7 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comlcweasydownload" />
+    <item component="ComponentInfo{114514}" drawable="comldygoqhzc" />
     <item
         component="ComponentInfo{114514}"
         drawable="comleavjennlongshot" />
@@ -1395,9 +1547,11 @@
     <item
         component="ComponentInfo{com.lianjia.beike/com.homelink.android.SplashScreenActivity}"
         drawable="comlianjiabeike" />
+    <item component="ComponentInfo{114514}" drawable="comlingkouleetcode" />
     <item
         component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity}"
         drawable="comlinkedinandroid" />
+    <item component="ComponentInfo{114514}" drawable="comlinroidzlive" />
     <item
         component="ComponentInfo{com.liulishuo.engzo/com.liulishuo.engzo.app.activity.PrepositionPrivacyActivity}"
         drawable="comliulishuoengzo" />
@@ -1407,6 +1561,9 @@
     <item
         component="ComponentInfo{com.lofter.android/com.lofter.android.global.splash.SplashActivity}"
         drawable="comlofterandroid" />
+    <item component="ComponentInfo{114514}" drawable="comlptiyutanke" />
+    <item component="ComponentInfo{114514}" drawable="comlstechrehealth" />
+
     <item
         component="ComponentInfo{com.lucky.luckyclient/com.lucky.luckyclient.splash.splash.SplashActivity}"
         drawable="comluckyluckyclient" />
@@ -1416,9 +1573,11 @@
     <item
         component="ComponentInfo{com.ludashi.benchmark.play/com.ludashi.benchmark.SplashActivity}"
         drawable="comludashibenchmarkplay" />
+    <item component="ComponentInfo{114514}" drawable="commacaupassrechargeeasy" />
     <item
         component="ComponentInfo{114514}"
         drawable="commacrovideov380" />
+    <item component="ComponentInfo{114514}" drawable="commagicbeltninepatch" />
     <item
         component="ComponentInfo{114514}"
         drawable="commaidugkld" />
@@ -1428,6 +1587,8 @@
     <item
         component="ComponentInfo{114514}"
         drawable="commampodergedd" />
+    <item component="ComponentInfo{114514}" drawable="commcdonaldsgmacn" />
+
     <item
         component="ComponentInfo{114514}"
         drawable="commediafireandroid" />
@@ -1440,6 +1601,9 @@
     <item
         component="ComponentInfo{114514}"
         drawable="commeltinglogicpixly" />
+    <item component="ComponentInfo{114514}" drawable="commemmacaolife" />
+    <item component="ComponentInfo{114514}" drawable="commercurymercuryrouter" />
+
     <item
         component="ComponentInfo{114514}"
         drawable="commerpyzfxmnote" />
@@ -1455,6 +1619,11 @@
     <item
         component="ComponentInfo{114514}"
         drawable="commicreditin" />
+    <item component="ComponentInfo{114514}" drawable="commicrosoftemmx" />
+    <item component="ComponentInfo{114514}" drawable="commicrosoftofficeexcel" />
+    <item component="ComponentInfo{114514}" drawable="commicrosoftofficepowerpoint" />
+    <item component="ComponentInfo{114514}" drawable="commicrosoftofficeword" />
+    <item component="ComponentInfo{114514}" drawable="commicrosoftrdcandroid" />
     <item
         component="ComponentInfo{114514}"
         drawable="commideaaiappliances" />
@@ -1470,12 +1639,17 @@
     <item
         component="ComponentInfo{114514}"
         drawable="commigumusicmini" />
+    <item component="ComponentInfo{114514}" drawable="commihealth" />
+    <item component="ComponentInfo{114514}" drawable="commihoyobh3uc" />
     <item
         component="ComponentInfo{com.miHoYo.GenshinImpact/com.miHoYo.GetMobileInfo.MainActivity}"
         drawable="commihoyogenshinimpact" />
     <item
         component="ComponentInfo{com.mihoyo.hyperion/com.mihoyo.hyperion.ui.SplashActivity}"
         drawable="commihoyohyperion" />
+    <item component="ComponentInfo{114514}" drawable="commihoyoysbilibili" />
+    <item component="ComponentInfo{114514}" drawable="commihoyoysmi" />
+
     <item
         component="ComponentInfo{com.miHoYo.Yuanshen/com.miHoYo.GetMobileInfo.MainActivity}"
         drawable="commihoyoyuanshen" />
@@ -1491,15 +1665,22 @@
     <item
         component="ComponentInfo{com.miui.fm/com.miui.fmradio.FmActivity}"
         drawable="commiuifm" />
-    <item
-        component="ComponentInfo{114514}"
-        drawable="commiuigaojishezhiplus" />
+    <item component="ComponentInfo{114514}" drawable="commiuigaojishezhiplus" />
+    <item component="ComponentInfo{114514}" drawable="commiuihuanji" />
+    <item component="ComponentInfo{114514}" drawable="commiuimiservice" />
+    <item component="ComponentInfo{114514}" drawable="commiuinewmidrive" />
+    <item component="ComponentInfo{114514}" drawable="commiuiquickappcentermiappstore" />
+    <item component="ComponentInfo{114514}" drawable="commiuiscreenrecorder" />
+    <item component="ComponentInfo{114514}" drawable="commiuivideoplaye" />
+    <item component="ComponentInfo{114514}" drawable="commiuivirtualsim" />
+    <item component="ComponentInfo{114514}" drawable="commiuiwhitenoise" />
     <item
         component="ComponentInfo{com.miui.huanji/com.miui.huanji.MainActivity}"
         drawable="commiuihuanji" />
     <item
         component="ComponentInfo{114514}"
         drawable="commixiong" />
+    <item component="ComponentInfo{114514}" drawable="commjxqapp" />
     <item
         component="ComponentInfo{114514}"
         drawable="commmandroidlc" />
@@ -1521,9 +1702,11 @@
     <item
         component="ComponentInfo{com.MobileTicket/com.alipay.mobile.quinox.LauncherActivity}"
         drawable="commobileticket" />
+    <item component="ComponentInfo{114514}" drawable="commodosaapkinstaller" />
     <item
         component="ComponentInfo{114514}"
         drawable="commodosaapkinstaller" />
+    <item component="ComponentInfo{114514}" drawable="commoiseumdailyart2" />
     <item
         component="ComponentInfo{com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity}"
         drawable="commojangminecraftpe" />
@@ -1536,6 +1719,8 @@
     <item
         component="ComponentInfo{114514}"
         drawable="commosheng" />
+    <item component="ComponentInfo{114514}" drawable="commosoinkteach" />
+
     <item
         component="ComponentInfo{114514}"
         drawable="commrnewdoor" />
@@ -1560,6 +1745,10 @@
     <item
         component="ComponentInfo{114514}"
         drawable="commyairtelapp" />
+    <item component="ComponentInfo{114514}" drawable="commyfusappchelaile" />
+    <item component="ComponentInfo{114514}" drawable="commygolbsmybus" />
+    <item component="ComponentInfo{114514}" drawable="commylrcmymusic" />
+
     <item
         component="ComponentInfo{114514}"
         drawable="commyntraandroid" />
@@ -1572,6 +1761,7 @@
     <item
         component="ComponentInfo{com.nasoft.socmark/com.nasoft.socmark.ui.MainActivity}"
         drawable="comnasoftsocmark" />
+    <item component="ComponentInfo{114514}" drawable="comnaxyxykey" />
     <item
         component="ComponentInfo{114514}"
         drawable="comneteasea13avg" />
@@ -1581,6 +1771,11 @@
     <item
         component="ComponentInfo{com.netease.gl/com.netease.gl.ui.activity.WelcomeActivity}"
         drawable="comneteasegl" />
+    <item component="ComponentInfo{114514}" drawable="comneteasehearthstone" />
+    <item component="ComponentInfo{114514}" drawable="comneteasehyxd" />
+    <item component="ComponentInfo{114514}" drawable="comneteasehyxdaligames" />
+    <item component="ComponentInfo{114514}" drawable="comneteasehyxdmi" />
+    <item component="ComponentInfo{114514}" drawable="comneteasemail" />
     <item
         component="ComponentInfo{114514}"
         drawable="comneteasemcaligames" />
@@ -1608,24 +1803,31 @@
     <item
         component="ComponentInfo{com.netease.onmyoji/com.netease.onmyoji.Launcher}"
         drawable="comneteaseonmyoji" />
+    <item component="ComponentInfo{114514}" drawable="comneteasesky" />
     <item
         component="ComponentInfo{com.netease.sky.aligames/com.tgc.sky.TGCBootActivity}"
         drawable="comneteaseskyaligames" />
+    <item component="ComponentInfo{114514}" drawable="comneteaseskymi" />
     <item
         component="ComponentInfo{com.netease.uu/com.netease.uu.activity.SplashScreenActivity}"
         drawable="comneteaseuu" />
     <item
         component="ComponentInfo{com.netease.uu/com.netease.uu.activity.MainActivity}"
         drawable="comneteaseuu" />
+    <item component="ComponentInfo{114514}" drawable="comneteasevopen" />
+    <item component="ComponentInfo{114514}" drawable="comneteasex19" />
     <item
         component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}"
         drawable="comnetflixmediaclient" />
     <item
         component="ComponentInfo{com.network.xfjsq/com.network.xfjsq.ui.SplashActivity}"
         drawable="comnetworkxfjsq" />
+    <item component="ComponentInfo{114514}" drawable="comnewinnplayerpro" />
     <item
         component="ComponentInfo{114514}"
         drawable="comnewstigerobo" />
+    <item component="ComponentInfo{114514}" drawable="comnhnandroidnaverdic" />
+    <item component="ComponentInfo{114514}" drawable="comnightmare" />
     <item
         component="ComponentInfo{com.nike.omega/com.nike.mynike.ui.SplashScreenActivity}"
         drawable="comnikeomega" />
@@ -1635,15 +1837,18 @@
     <item
         component="ComponentInfo{com.nike.snkrs/com.nike.snkrs.feed.activities.TheWallActivity}"
         drawable="comnikesnkrs" />
+    <item component="ComponentInfo{114514}" drawable="comniksoftwaresnapseed" />
     <item
         component="ComponentInfo{114514}"
         drawable="comninebullxlookrelease" />
+    <item component="ComponentInfo{114514}" drawable="comniucloud" />
     <item
         component="ComponentInfo{com.njh.biubiu/com.njh.ping.launcher.LauncherActivity}"
         drawable="comnjhbiubiu" />
     <item
         component="ComponentInfo{com.nn.cowtransfer/com.nn.cowtransfer.MainActivity}"
         drawable="comnncowtransfer" />
+    <item component="ComponentInfo{114514}" drawable="comnngdjtapp" />
     <item
         component="ComponentInfo{com.nowcasting.activity/com.nowcasting.activity.SplashActivity}"
         drawable="comnowcastingactivity" />
@@ -1665,6 +1870,7 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comoffcnzhibo" />
+    <item component="ComponentInfo{114514}" drawable="comokincokex" />
     <item
         component="ComponentInfo{114514}"
         drawable="comolacabscustomer" />
@@ -1674,9 +1880,11 @@
     <item
         component="ComponentInfo{com.omarea.vtools/com.omarea.vtools.activities.ActivityMain}"
         drawable="comomareavtools" />
+    <item component="ComponentInfo{114514}" drawable="comopalastudiossuperlaunchpad" />
     <item
         component="ComponentInfo{114514}"
         drawable="comopenhotspotvpnfree" />
+    <item component="ComponentInfo{114514}" drawable="comopenlanguageeasy" />
     <item
         component="ComponentInfo{114514}"
         drawable="comopenlanguageeasy" />
@@ -1701,15 +1909,18 @@
     <item
         component="ComponentInfo{com.oray.sunlogin/com.oray.sunlogin.application.Main}"
         drawable="comoraysunlogin" />
+    <item component="ComponentInfo{114514}" drawable="comovelinguitartuna" />
     <item
         component="ComponentInfo{com.ovital.ovitalMap/com.ovital.ovitalMap.LaunchActivity}"
         drawable="comovitalovitalmap" />
+    <item component="ComponentInfo{114514}" drawable="compandoxprojecttwirdora" />
     <item
         component="ComponentInfo{114514}"
         drawable="compaypalandroidp2pmobile" />
     <item
         component="ComponentInfo{114514}"
         drawable="compcncnjj" />
+    <item component="ComponentInfo{114514}" drawable="compcncnjk" />
     <item
         component="ComponentInfo{com.peopledailychina.activity/com.peopledailychina.activity.activity.WelcomeActivity}"
         drawable="compeopledailychinaactivity" />
@@ -1719,9 +1930,11 @@
     <item
         component="ComponentInfo{com.phonepe.app/com.phonepe.app.ui.activity.Navigator_MainActivity}"
         drawable="comphonepeapp" />
+    <item component="ComponentInfo{114514}" drawable="compicacomicfregata" />
     <item
         component="ComponentInfo{com.picsart.studio/com.socialin.android.photo.picsinphoto.MainPagerActivity}"
         drawable="compicsartstudio" />
+    <item component="ComponentInfo{114514}" drawable="compigeongamesphigros" />
     <item
         component="ComponentInfo{114514}"
         drawable="compingancarowner" />
@@ -1740,6 +1953,8 @@
     <item
         component="ComponentInfo{114514}"
         drawable="compipipifapilaipiwang" />
+    <item component="ComponentInfo{114514}" drawable="complaghheartstudy" />
+
     <item
         component="ComponentInfo{114514}"
         drawable="complanetlight2345" />
@@ -1749,6 +1964,12 @@
     <item
         component="ComponentInfo{114514}"
         drawable="compopalmduizhuang" />
+    <item component="ComponentInfo{114514}" drawable="compopcappvz2cthd360" />
+    <item component="ComponentInfo{114514}" drawable="compopcappvz2cthd4399" />
+    <item component="ComponentInfo{114514}" drawable="compopcappvz2cthdbk" />
+    <item component="ComponentInfo{114514}" drawable="compopcappvz2cthduc" />
+    <item component="ComponentInfo{114514}" drawable="compopcappvz2cthdxm" />
+    <item component="ComponentInfo{114514}" drawable="compopcappvzna" />
     <item
         component="ComponentInfo{com.pplive.androidphone/com.pplive.androidphone.ui.FirstActivity}"
         drawable="comppliveandroidphone" />
@@ -1758,18 +1979,22 @@
     <item
         component="ComponentInfo{com.topcoders.chameleon/com.topcoders.chameleon.activity.MainActivity}"
         drawable="comproxgrindchameleon" />
+    <item component="ComponentInfo{114514}" drawable="comprprmusedash" />
     <item
         component="ComponentInfo{com.prpr.musedash.TapTap/com.taptap.pay.sdk.library.TapTapUnityActivity}"
         drawable="comprprmusedashtaptap" />
     <item
         component="ComponentInfo{com.prpr.musedash.TapTap/com.unity3d.player.UnityPlayerActivity}"
         drawable="comprprmusedashtaptap" />
+    <item component="ComponentInfo{114514}" drawable="compsyonebrainmusic" />
+    <item component="ComponentInfo{114514}" drawable="compsyonebrainmusichuawei" />
     <item
         component="ComponentInfo{114514}"
         drawable="comptleo" />
     <item
         component="ComponentInfo{114514}"
         drawable="compupumallcustomer" />
+    <item component="ComponentInfo{114514}" drawable="compvznb" />
     <item
         component="ComponentInfo{114514}"
         drawable="compwrdsteamesports" />
@@ -1791,6 +2016,8 @@
     <item
         component="ComponentInfo{com.qihoo360.mobilesafe/com.qihoo360.mobilesafe.ui.index.AppEnterActivity}"
         drawable="comqihoo360mobilesafe" />
+    <item component="ComponentInfo{114514}" drawable="comqihoocamera" />
+    <item component="ComponentInfo{114514}" drawable="comqihoodr" />
     <item
         component="ComponentInfo{114514}"
         drawable="comqihooqeditor" />
@@ -1806,12 +2033,14 @@
     <item
         component="ComponentInfo{com.qiyi.video/com.qiyi.video.WelcomeActivity}"
         drawable="comqiyivideo" />
+    <item component="ComponentInfo{114514}" drawable="comqooappqoohelper" />
     <item
         component="ComponentInfo{114514}"
         drawable="comqq2300657272" />
     <item
         component="ComponentInfo{om.qq.ac.android/com.qq.ac.android.view.activity.SplashActivity}"
         drawable="comqqacandroid" />
+    <item component="ComponentInfo{114514}" drawable="comqqgamehappymj" />
     <item
         component="ComponentInfo{com.qq.qcloud/com.qq.qcloud.activity.WeiyunRootActivity}"
         drawable="comqqqcloud" />
@@ -1833,6 +2062,7 @@
     <item
         component="ComponentInfo{com.qzone/com.tencent.sc.activity.SplashActivity}"
         drawable="comqzone" />
+    <item component="ComponentInfo{114514}" drawable="comr642859490zov" />
     <item
         component="ComponentInfo{114514}"
         drawable="comraincatunblockmusicpro" />
@@ -1845,6 +2075,8 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comreadbookmigu" />
+    <item component="ComponentInfo{114514}" drawable="comrealcloudloochadroidcollege" />
+    <item component="ComponentInfo{114514}" drawable="comredfingerapp" />
     <item
         component="ComponentInfo{114514}"
         drawable="comrenrendaihaohuan" />
@@ -1863,6 +2095,8 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comromideterminal" />
+    <item component="ComponentInfo{114514}" drawable="comrovioangrybirdstransformers" />
+    <item component="ComponentInfo{114514}" drawable="comrtmarketfresh" />
     <item
         component="ComponentInfo{114514}"
         drawable="comrovioangrybirdstransformers" />
@@ -1899,12 +2133,14 @@
     <item
         component="ComponentInfo{com.sankuai.meituan.takeoutnew/com.sankuai.meituan.takeoutnew.ui.page.boot.WelcomeActivity}"
         drawable="comsankuaimeituantakeoutnew" />
+    <item component="ComponentInfo{114514}" drawable="comsankuaimoviepro" />
     <item
         component="ComponentInfo{114514}"
         drawable="comsankuaiyouxuan" />
     <item
         component="ComponentInfo{114514}"
         drawable="comsanmaonewstudypstwoappunion" />
+    <item component="ComponentInfo{114514}" drawable="comscarpicturequality" />
     <item
         component="ComponentInfo{114514}"
         drawable="comscdzghostnet" />
@@ -1932,6 +2168,9 @@
     <item
         component="ComponentInfo{com.sdu.didi.psnger/com.didi.sdk.app.launch.splash.SplashActivity}"
         drawable="comsdudidipsnger" />
+    <item component="ComponentInfo{114514}" drawable="comseebaby" />
+    <item component="ComponentInfo{114514}" drawable="comsegapjsekai" />
+    <item component="ComponentInfo{114514}" drawable="comsesappapkexport" />
     <item
         component="ComponentInfo{com.sfacg/com.stub.stub01.Stub01}"
         drawable="comsfacg" />
@@ -1956,6 +2195,7 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comshanyingpudong" />
+    <item component="ComponentInfo{114514}" drawable="comshawnnfcwriter" />
     <item
         component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}"
         drawable="comshazamandroid" />
@@ -2016,9 +2256,11 @@
     <item
         component="ComponentInfo{com.sinovatech.unicom.ui/com.sinovatech.unicom.basic.ui.activity.WelcomeClient}"
         drawable="comsinovatechunicomui" />
+    <item component="ComponentInfo{114514}" drawable="comsinyeebabybusrecommendapp" />
     <item
         component="ComponentInfo{114514}"
         drawable="comsisishishuoxinyu" />
+    <item component="ComponentInfo{114514}" drawable="comsixyinwuyinapp" />
     <item
         component="ComponentInfo{114514}"
         drawable="comskyplatanuscrucio" />
@@ -2034,6 +2276,7 @@
     <item
         component="ComponentInfo{com.smile.gifmaker/com.yxcorp.gifshow.HomeActivity}"
         drawable="comsmilegifmaker" />
+    <item component="ComponentInfo{114514}" drawable="comsmilingmobileseekliving" />
     <item
         component="ComponentInfo{com.smzdm.client.android/com.smzdm.client.android.welcome.WelComeActivity}"
         drawable="comsmzdmclientandroid" />
@@ -2076,6 +2319,7 @@
     <item
         component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.main.LauncherActivity}"
         drawable="comsoundcloudandroid" />
+    <item component="ComponentInfo{114514}" drawable="comspeedsoftwarerootexplorer" />
     <item
         component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity"
         drawable="comspotifymusic" />
@@ -2124,6 +2368,10 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comssandroidugclivelite" />
+    <item component="ComponentInfo{114514}" drawable="comssportsmobilevideo" />
+    <item component="ComponentInfo{114514}" drawable="comsswkjsswgame" />
+    <item component="ComponentInfo{114514}" drawable="comsteampyapp" />
+
     <item
         component="ComponentInfo{114514}"
         drawable="comsteevsappsidledaddy" />
@@ -2136,6 +2384,7 @@
     <item
         component="ComponentInfo{com.suning.mobile.ebuy/com.suning.mobile.ebuy.base.host.InitialActivity}"
         drawable="comsuningmobileebuy" />
+    <item component="ComponentInfo{114514}" drawable="comsuningmobileepa" />
     <item
         component="ComponentInfo{114514}"
         drawable="comsunlandssdjglite" />
@@ -2143,11 +2392,18 @@
         component="ComponentInfo{com.sunrise.scmbhc/com.sunrise.scmbhc.ui.activity.loading.LoadingActivity}"
         drawable="comsunrisescmbhc" />
     <item
+        component="ComponentInfo{com.sunshine.freeform/com.sunshine.freeform.activity.splash.SplashActivity}"
+        drawable="comsunshinefreeform" />
+    <item
         component="ComponentInfo{com.sup.android.superb/com.sup.android.superb.SplashActivity}"
         drawable="comsupandroidsuperb" />
+    <item component="ComponentInfo{114514}" drawable="comsupercellclashofclansuc" />
+    <item component="ComponentInfo{114514}" drawable="comszzc" />
     <item
         component="ComponentInfo{114514}"
         drawable="comt3gopassenger" />
+    <item component="ComponentInfo{114514}" drawable="comtaduread" />
+    <item component="ComponentInfo{114514}" drawable="comtaihefans" />
     <item
         component="ComponentInfo{114514}"
         drawable="comtaltiku" />
@@ -2175,6 +2431,7 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comtaobaolive" />
+    <item component="ComponentInfo{114514}" drawable="comtaobaomobiledipei" />
     <item
         component="ComponentInfo{com.taobao.movie.android/com.taobao.movie.android.app.home.activity.SplashActivity}"
         drawable="comtaobaomovieandroid" />
@@ -2193,12 +2450,14 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comtaohelpernicolas" />
+    <item component="ComponentInfo{114514}" drawable="comtaoumaimai" />
     <item
         component="ComponentInfo{com.taptap/com.play.taptap.ui.MainAct}"
         drawable="comtaptap" />
     <item
         component="ComponentInfo{com.taptap/com.play.taptap.ui.SplashAct}"
         drawable="comtaptap" />
+    <item component="ComponentInfo{114514}" drawable="comtechwolfkanzhunapp" />
     <item
         component="ComponentInfo{com.tencent.androidqqmail/com.tencent.qqmail.LaucherActivity}"
         drawable="comtencentandroidqqmail" />
@@ -2229,6 +2488,7 @@
     <item
         component="ComponentInfo{com.tencent.gamehelper.smoba/com.tencent.gamehelper.ui.main.WelcomeActivity}"
         drawable="comtencentgamehelpersmoba" />
+    <item component="ComponentInfo{114514}" drawable="comtencentgamereva" />
     <item
         component="ComponentInfo{com.tencent.karaoke/com.tencent.karaoke.module.splash.ui.SplashBaseActivity}"
         drawable="comtencentkaraoke" />
@@ -2259,6 +2519,7 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comtencentnijigen" />
+    <item component="ComponentInfo{114514}" drawable="comtencentpao" />
     <item
         component="ComponentInfo{114514}"
         drawable="comtencentportfolio" />
@@ -2281,7 +2542,10 @@
         component="ComponentInfo{com.tencent.qqpimsecure/com.tencent.server.fore.QuickLoadActivity}"
         drawable="comtencentqqpimsecure" />
     <item
-        component="ComponentInfo{1com.tencent.qt.qtl/com.tencent.qt.qtl.activity.main.LauncherActivity}"
+        component="ComponentInfo{com.tencent.qt.qtl/com.tencent.zone.main.LauncherActivity}"
+        drawable="comtencentqtqtl" />
+    <item
+        component="ComponentInfo{com.tencent.qt.qtl/com.tencent.qt.qtl.activity.main.LauncherActivity}"
         drawable="comtencentqtqtl" />
     <item
         component="ComponentInfo{com.tencent.qt.sns/com.tencent.qt.sns.login.LaunchActivity}"
@@ -2301,6 +2565,7 @@
     <item
         component="ComponentInfo{com.tencent.tim/com.qihoo.util.StartActivity}"
         drawable="comtencenttim" />
+    <item component="ComponentInfo{114514}" drawable="comtencenttmgpbh3" />
     <item
         component="ComponentInfo{com.tencent.tmgp.cf/com.tencent.tmgp.cf.AFMainActivity}"
         drawable="comtencenttmgpcf" />
@@ -2331,6 +2596,7 @@
     <item
         component="ComponentInfo{com.tencent.tmgp.supercell.clashofclans/com.tencent.tmgp.supercell.clashofclans.GameAppTencent}"
         drawable="comtencenttmgpsupercellclashofclans" />
+    <item component="ComponentInfo{114514}" drawable="comtencenttmgpwepop" />
     <item
         component="ComponentInfo{com.tencent.token/com.tencent.token.ui.LogoActivity}"
         drawable="comtencenttoken" />
@@ -2364,12 +2630,14 @@
     <item
         component="ComponentInfo{com.tencent.xriver/com.tencent.xriver.ui.splash.SplashActivity}"
         drawable="comtencentxriver" />
+    <item component="ComponentInfo{114514}" drawable="comtencentzb" />
     <item
         component="ComponentInfo{com.tenda.router.app/com.tenda.router.app.activity.Anew.Splash.SplashActivity}"
         drawable="comtendarouterapp" />
     <item
         component="ComponentInfo{com.tgc.sky.android/com.tgc.sky.TGCBootActivity}"
         drawable="comtgcskyandroid" />
+    <item component="ComponentInfo{114514}" drawable="comtheotinochinadaily" />
     <item
         component="ComponentInfo{com.thirtydegreesray.openhub/com.thirtydegreesray.openhub.ui.activity.SplashActivity}"
         drawable="comthirtydegreesrayopenhub" />
@@ -2382,6 +2650,7 @@
     <item
         component="ComponentInfo{com.tianyancha.skyeye/com.tianyancha.skyeye.SplashPage}"
         drawable="comtianyanchaskyeye" />
+    <item component="ComponentInfo{114514}" drawable="comtieyoutrainark" />
     <item
         component="ComponentInfo{com.tinder/com.tinder.activities.LoginActivity}"
         drawable="comtinder" />
@@ -2391,6 +2660,7 @@
     <item
         component="ComponentInfo{com.tmri.app.main/com.tmri.app.ui.activity.TmriActivity}"
         drawable="comtmriappmain" />
+    <item component="ComponentInfo{114514}" drawable="comtongchengandroid" />
     <item
         component="ComponentInfo{com.toshiba_dealin.developerhelper/com.toshiba_dealin.developerhelper.ui.activity.MainActivity}"
         drawable="comtoshibadealindeveloperhelper" />
@@ -2403,6 +2673,7 @@
     <item
         component="ComponentInfo{com.tplink.cloudrouter/com.tplink.cloudrouter.activity.WelcomeTPLINKActivity}"
         drawable="comtplinkcloudrouter" />
+    <item component="ComponentInfo{114514}" drawable="comtraffichandtrafficbible" />
     <item
         component="ComponentInfo{com.truecaller/com.truecaller.ui.TruecallerInit}"
         drawable="comtruecaller" />
@@ -2415,12 +2686,14 @@
     <item
         component="ComponentInfo{com.tudou.android/com.tudou.ui.activity.WelcomeActivity}"
         drawable="comtudouandroid" />
+    <item component="ComponentInfo{114514}" drawable="comtwentyfirstcbhepaper" />
     <item
         component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}"
         drawable="comtwitterandroid" />
     <item
         component="ComponentInfo{com.txmpay.csewallet/com.txmpay.csewallet.ui.splash.SplashActivity}"
         drawable="comtxmpaycsewallet" />
+    <item component="ComponentInfo{114514}" drawable="comuanmimiaojiaccount" />
     <item
         component="ComponentInfo{com.ubercab/com.ubercab.presidio.app.core.root.RootActivity}"
         drawable="comubercab" />
@@ -2436,18 +2709,21 @@
     <item
         component="ComponentInfo{com.uc.vmate/com.uc.vmate.WelcomeActivity}"
         drawable="comucvmate" />
+    <item component="ComponentInfo{114514}" drawable="comuetapp" />
     <item
         component="ComponentInfo{com.umetrip.android.msky.app/com.umetrip.android.msky.app.module.SplashActivity}"
         drawable="comumetripandroidmskyapp" />
     <item
         component="ComponentInfo{com.umetrip.android.msky.app/com.umetrip.android.msky.app.module.startup.SplashActivity}"
         drawable="comumetripandroidmskyapp" />
+    <item component="ComponentInfo{114514}" drawable="comunicomwopay" />
     <item
         component="ComponentInfo{com.unionpay/com.unionpay.activity.UPActivityWelcome}"
         drawable="comunionpay" />
     <item
         component="ComponentInfo{cn.unipus.ucampus.student/cn.unipus.ucampus.student.activity.SplashActivity}"
         drawable="comunipus" />
+    <item component="ComponentInfo{114514}" drawable="comupinapp" />
     <item
         component="ComponentInfo{com.ushaqi.zhuishushenqi/com.ushaqi.zhuishushenqi.ui.SplashActivity}"
         drawable="comushaqizhuishushenqi" />
@@ -2457,6 +2733,10 @@
     <item
         component="ComponentInfo{com.venmo/com.venmo.TabCentralActivity}"
         drawable="comvenmo" />
+    <item component="ComponentInfo{114514}" drawable="comversavanilla" />
+    <item component="ComponentInfo{114514}" drawable="comvideoeditorcnandroid" />
+    <item component="ComponentInfo{114514}" drawable="comvideoeditorproandroid" />
+    <item component="ComponentInfo{114514}" drawable="comvideofamily" />
     <item
         component="ComponentInfo{com.videogo/com.videogo.LauncherActivity}"
         drawable="comvideogo" />
@@ -2466,6 +2746,7 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comvitotechnologystarwalk2free" />
+    <item component="ComponentInfo{114514}" drawable="comvivoeasyshare" />
     <item
         component="ComponentInfo{com.vmos.pro/com.vmos.pro.activities.splash.SplashActivity}"
         drawable="comvmospro" />
@@ -2475,6 +2756,7 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comvsportshy" />
+    <item component="ComponentInfo{114514}" drawable="comwanderandroidwallpaper" />
     <item
         component="ComponentInfo{com.wandoujia.phoenix2/com.pp.assistant.activity.PPMainActivity}"
         drawable="comwandoujiaphoenix2" />
@@ -2493,6 +2775,8 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comweaveremobile7" />
+    <item component="ComponentInfo{114514}" drawable="comwebankwemoney" />
+    <item component="ComponentInfo{114514}" drawable="comweconexnjcitizencard" />
     <item
         component="ComponentInfo{com.weico.international/com.weico.international.activity.LogoActivity}"
         drawable="comweicointernational" />
@@ -2505,6 +2789,7 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comwepieweplay" />
+    <item component="ComponentInfo{114514}" drawable="comwewinwewinprinterprofessional" />
     <item
         component="ComponentInfo{com.whatsapp/com.whatsapp.Main}"
         drawable="comwhatsapp" />
@@ -2526,12 +2811,14 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comwmosmain" />
+    <item component="ComponentInfo{114514}" drawable="comwochongxianshengyuanjiao" />
     <item
         component="ComponentInfo{114514}"
         drawable="comwodanxianshijian" />
     <item
         component="ComponentInfo{com.wodi.who/com.wodi.who.login.SplashActivity}"
         drawable="comwodiwho" />
+    <item component="ComponentInfo{114514}" drawable="comwolongresource" />
     <item
         component="ComponentInfo{114514}"
         drawable="comwondertekmiguaikan" />
@@ -2547,6 +2834,7 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comwubabangjob" />
+    <item component="ComponentInfo{114514}" drawable="comwubazhuanzhuan" />
     <item
         component="ComponentInfo{com.wudaokou.hippo/com.wudaokou.hippo.launcher.splash.SplashActivity}"
         drawable="comwudaokouhippo" />
@@ -2565,6 +2853,7 @@
     <item
         component="ComponentInfo{com.xdf.recite/com.xdf.recite.android.ui.activity.load.WelcomeActivity}"
         drawable="comxdfrecite" />
+    <item component="ComponentInfo{114514}" drawable="comxheyxcamera" />
     <item
         component="ComponentInfo{com.xiachufang/com.xiachufang.startpage.ui.StartPageActivity}"
         drawable="comxiachufang" />
@@ -2574,6 +2863,8 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comxiaochangclaw" />
+    <item component="ComponentInfo{114514}" drawable="comxiaoenaiapp" />
+    <item component="ComponentInfo{114514}" drawable="comxiaojietv" />
     <item
         component="ComponentInfo{com.xiaomi.channel/com.xiaomi.channel.ui.ChannelLauncherActivity}"
         drawable="comxiaomichannel" />
@@ -2586,6 +2877,7 @@
     <item
         component="ComponentInfo{com.xiaomi.jr/com.xiaomi.jr.SplashActivity}"
         drawable="comxiaomijr" />
+    <item component="ComponentInfo{114514}" drawable="comxiaomimico" />
     <item
         component="ComponentInfo{com.xiaomi.mico/com.xiaomi.mico.splash.SplashActivity}"
         drawable="comxiaomimico" />
@@ -2619,6 +2911,7 @@
     <item
         component="ComponentInfo{com.xiaomi.shop/com.xiaomi.shop.activity.MainTabActivity}"
         drawable="comxiaomishop" />
+    <item component="ComponentInfo{114514}" drawable="comxiaomismarthome" />
     <item
         component="ComponentInfo{com.xiaomi.wearable/com.xiaomi.wearable.start.privacy.PrivacyActivity}"
         drawable="comxiaomiwearable" />
@@ -2640,12 +2933,15 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comxiyouenglish" />
+    <item component="ComponentInfo{114514}" drawable="comxmaderariangguiandroid" />
+    <item component="ComponentInfo{114514}" drawable="comxmcyhykb" />
     <item
         component="ComponentInfo{com.xt.retouch/com.xt.retouch.uilauncher.LaunchActivity}"
         drawable="comxtretouch" />
     <item
         component="ComponentInfo{com.xueersi.parentsmeeting/com.xueersi.parentsmeeting.LaunchActivity}"
         drawable="comxueersiparentsmeeting" />
+    <item component="ComponentInfo{114514}" drawable="comxueqiuandroid" />
     <item
         component="ComponentInfo{com.xuexiaoyi.xxy/com.xuexiaoyi.xxy.MainActivity}"
         drawable="comxuexiaoyixxy" />
@@ -2661,12 +2957,14 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comxwtecsdmobileclient" />
+    <item component="ComponentInfo{114514}" drawable="comxxf098ssrray" />
     <item
         component="ComponentInfo{com.xyhui/com.lee.start.LoadingActivity}"
         drawable="comxyhui" />
     <item
         component="ComponentInfo{114514}"
         drawable="comxytd" />
+    <item component="ComponentInfo{114514}" drawable="comyangcong345androidphone" />
     <item
         component="ComponentInfo{114514}"
         drawable="comyaxisvippubgtoolalphapro" />
@@ -2679,6 +2977,7 @@
     <item
         component="ComponentInfo{com.yek.android.kfc.activitys/com.yum.brandkfc.SplashAct}"
         drawable="comyekandroidkfcactivitys" />
+    <item component="ComponentInfo{114514}" drawable="comyfsmartcorosdist" />
     <item
         component="ComponentInfo{com.ygkj.chelaile.standard/dev.xesam.chelaile.app.module.func.SplashActivity}"
         drawable="comygkjchelailestandard" />
@@ -2700,9 +2999,11 @@
     <item
         component="ComponentInfo{ComponentInfo{com.yipiao/com.zt.main.entrance.ZTLaunchActivity}"
         drawable="comyipiao" />
+    <item component="ComponentInfo{114514}" drawable="comyiqizuoyejzt" />
     <item
         component="ComponentInfo{com.yitantech.gaigai/com.bx.splash.SplashActivity}"
         drawable="comyitantechgaigai" />
+    <item component="ComponentInfo{114514}" drawable="comyitongfjnxmbankandroid" />
     <item
         component="ComponentInfo{com.yitong.gansu.mobilebank/com.yitong.gansu.mobilebank.android.activity.SplashActivity}"
         drawable="comyitonggansumobilebank" />
@@ -2715,6 +3016,7 @@
     <item
         component="ComponentInfo{com.yiyou.ga/com.yiyou.ga.client.BlankActivity}"
         drawable="comyiyouga" />
+    <item component="ComponentInfo{114514}" drawable="comylmfandroidclient" />
     <item
         component="ComponentInfo{114514}"
         drawable="comylzinfochinahrss" />
@@ -2748,12 +3050,14 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comyujianresidemenudemo" />
+    <item component="ComponentInfo{114514}" drawable="comyunchangdmc" />
     <item
         component="ComponentInfo{114514}"
         drawable="comyunxiaohaofenshu" />
     <item
         component="ComponentInfo{114514}"
         drawable="comyunxiflashlight" />
+    <item component="ComponentInfo{114514}" drawable="comyusichongchong" />
     <item
         component="ComponentInfo{114514}"
         drawable="comyyourtimes" />
@@ -2763,6 +3067,7 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comzenmenpalmchat" />
+    <item component="ComponentInfo{114514}" drawable="comzhangkongappjokebamenshenqi" />
     <item
         component="ComponentInfo{com.zhaopin.social/com.qihoo.util.StartActivity}"
         drawable="comzhaopinsocial" />
@@ -2775,6 +3080,7 @@
     <item
         component="ComponentInfo{com.zhihu.android/com.zhihu.android.app.ui.activity.MainActivity}"
         drawable="comzhihuandroid" />
+    <item component="ComponentInfo{114514}" drawable="comzhijianzhuoyuesharkbrowser" />
     <item
         component="ComponentInfo{114514}"
         drawable="comzhijianzhuoyuesharkbrowser" />
@@ -2806,6 +3112,12 @@
         component="ComponentInfo{114514}"
         drawable="comzivlwapk" />
     <item
+        component="ComponentInfo{com.zjwh.android_wh_physicalfitness/com.zjwh.android_wh_physicalfitness.activity.SplashActivity}"
+        drawable="comzjwhandroidwhphysicalfitness" />
+    <item
+        component="ComponentInfo{com.zjy.ykt/com.zjy.ykt.SplashActivity}"
+        drawable="comzjyykt" />
+    <item
         component="ComponentInfo{114514}"
         drawable="comzmzxcollegesearch" />
     <item
@@ -2817,12 +3129,15 @@
     <item
         component="ComponentInfo{114514}"
         drawable="comzuoyebangairclass" />
+    <item component="ComponentInfo{114514}" drawable="comzxscnew" />
     <item
         component="ComponentInfo{com.zybang.parent/com.zybang.parent.activity.InitActivity}"
         drawable="comzybangparent" />
+    <item component="ComponentInfo{114514}" drawable="comzyhzyhadmin" />
     <item
         component="ComponentInfo{114514}"
         drawable="comzzwoctober" />
+    <item component="ComponentInfo{114514}" drawable="corunnerapp" />
     <item
         component="ComponentInfo{114514}"
         drawable="crixecappimagefactory" />
@@ -2838,6 +3153,7 @@
     <item
         component="ComponentInfo{ctrip.android.view/ctrip.android.view.splash.CtripSplashActivity}"
         drawable="ctripandroidview" />
+    <item component="ComponentInfo{114514}" drawable="daiweinewmobile" />
     <item
         component="ComponentInfo{de.robv.android.xposed.installer/de.robv.android.xposed.installer.WelcomeActivitydvdandroid}"
         drawable="derobvandroidxposedinstaller" />
@@ -2859,6 +3175,8 @@
     <item
         component="ComponentInfo{dopool.player/dopool.player.SplashActivity}"
         drawable="dopoolplayer" />
+    <item component="ComponentInfo{114514}" drawable="edusjtuinfoplustaskcenter" />
+    <item component="ComponentInfo{114514}" drawable="eukanadetachiyomi" />
     <item
         component="ComponentInfo{eu.thedarken.sdm/eu.thedarken.sdm.main.ui.SDMMainActivity}"
         drawable="euthedarkensdm" />
@@ -2880,6 +3198,9 @@
     <item
         component="ComponentInfofm.qingting.qtradio/fm.qingting.qtradio.QTRadioActivity}"
         drawable="fmqingtingqtradio" />
+    <item component="ComponentInfo{114514}" drawable="gdutbsxvideoreverser" />
+    <item component="ComponentInfo{114514}" drawable="geziipcomcuttt" />
+    <item component="ComponentInfo{114514}" drawable="govpianzongandroidnga" />
     <item
         component="ComponentInfo{Han.GJZS/com.projectkr.shell.SplashActivity}"
         drawable="hangjzs" />
@@ -2895,18 +3216,20 @@
     <item
         component="ComponentInfo{114514}"
         drawable="insigmawaybookjinan" />
+    <item component="ComponentInfo{114514}" drawable="inzhaojshadowsocksr" />
     <item
         component="ComponentInfo{in.zhaoj.shadowsocksrr/com.github.shadowsocks.Shadowsocks}"
         drawable="inzhaojshadowsocksrr" />
-    <item
-        component="ComponentInfo{114514}"
-        drawable="ioikws4weiju" />
-    <item
-        component="ComponentInfo{114514}"
-        drawable="jpcocanonbsdadpixmaprint" />
-    <item
-        component="ComponentInfo{114514}"
-        drawable="lilingfengltweaks" />
+    <item component="ComponentInfo{114514}" drawable="iodushufandengreader" />
+    <item component="ComponentInfo{114514}" drawable="ioikws4weiju" />
+    <item component="ComponentInfo{114514}" drawable="jpcocanonbsdadpixmaprint" />
+    <item component="ComponentInfo{114514}" drawable="jpcocapcompalm" />
+    <item component="ComponentInfo{114514}" drawable="jpcocapcompalmcn" />
+    <item component="ComponentInfo{114514}" drawable="jpcocapcompalmst" />
+    <item component="ComponentInfo{114514}" drawable="jpcoyahooandroidappstransit" />
+    <item component="ComponentInfo{114514}" drawable="lecarandroidview" />
+    <item component="ComponentInfo{114514}" drawable="lilingfengltweaks" />
+    <item component="ComponentInfo{114514}" drawable="macaotaxipassager" />
     <item
         component="ComponentInfo{make.more.r2d2.cellular_pro/make.more.r2d2.cellular_pro.activity.MonitorActivity}"
         drawable="makemorer2d2cellularpro" />
@@ -2916,24 +3239,19 @@
     <item
         component="ComponentInfo{me.ele/me.ele.Launcher}"
         drawable="meele" />
-    <item
-        component="ComponentInfo{114514}"
-        drawable="meelecrowdsource" />
-    <item
-        component="ComponentInfo{114514}"
-        drawable="memugzonemalody" />
+    <item component="ComponentInfo{114514}" drawable="meelecrowdsource" />
+    <item component="ComponentInfo{114514}" drawable="meizhiwhale" />
+    <item component="ComponentInfo{114514}" drawable="melandrulonicera" />
+    <item component="ComponentInfo{114514}" drawable="memugzonemalody" />
+    <item component="ComponentInfo{114514}" drawable="metigerhixcytoidcn" />
     <item
         component="ComponentInfo{me.weishu.exp/me.weishu.exp.ui.MainActivity}"
         drawable="meweishuexp" />
-    <item
-        component="ComponentInfo{114514}"
-        drawable="meyidui" />
-    <item
-        component="ComponentInfo{114514}"
-        drawable="mezhouzhuo810zznote" />
-    <item
-        component="ComponentInfo{114514}"
-        drawable="minicombaidutiebamini" />
+    <item component="ComponentInfo{114514}" drawable="meyidui" />
+    <item component="ComponentInfo{114514}" drawable="mezhouzhuo810zznote" />
+    <item component="ComponentInfo{114514}" drawable="mini combaidutiebamini" />
+    <item component="ComponentInfo{114514}" drawable="moelowarc" />
+    <item component="ComponentInfo{114514}" drawable="mogovdsatbis" />
     <item
         component="ComponentInfo{114514}"
         drawable="nekoxmessenger" />
@@ -2958,21 +3276,16 @@
     <item
         component="ComponentInfo{net.one97.paytm/net.one97.paytm.AJRJarvisSplash}"
         drawable="netone97paytm" />
-    <item
-        component="ComponentInfo{114514}"
-        drawable="orgamalgamlaboratory" />
-    <item
-        component="ComponentInfo{114514}"
-        drawable="orgautojsautojspro" />
-    <item
-        component="ComponentInfo{114514}"
-        drawable="orgcraperotationcontrol" />
-    <item
-        component="ComponentInfo{114514}"
-        drawable="orgfreeandroidtoolssafetynettest" />
-    <item
-        component="ComponentInfo{114514}"
-        drawable="orghydevnewthemeapplytools" />
+    <item component="ComponentInfo{114514}" drawable="nutstoreandroid" />
+    <item component="ComponentInfo{114514}" drawable="onehhoneclient" />
+    <item component="ComponentInfo{114514}" drawable="orgamalgamlaboratory" />
+    <item component="ComponentInfo{114514}" drawable="orgautojsautojspro" />
+    <item component="ComponentInfo{114514}" drawable="orgcraperotationcontrol" />
+    <item component="ComponentInfo{114514}" drawable="orgfdroidfdroid" />
+    <item component="ComponentInfo{114514}" drawable="orgfreeandroidtoolssafetynettest" />
+    <item component="ComponentInfo{114514}" drawable="orghydevnewthemeapplytools" />
+    <item component="ComponentInfo{114514}" drawable="orgizyz" />
+    <item component="ComponentInfo{114514}" drawable="orgizyz" />
     <item
         component="ComponentInfo{org.meowcat.edxposed.manager/org.meowcat.edxposed.manager.WelcomeActivityMlgmXyysd}"
         drawable="orgmeowcatedxposedmanager" />
@@ -2982,12 +3295,12 @@
     <item
         component="ComponentInfo{org.pigai.allround/io.dcloud.PandoraEntry}"
         drawable="orgpigaiallround" />
-    <item
-        component="ComponentInfo{114514}"
-        drawable="orgtorprojecttorbrowser" />
-    <item
-        component="ComponentInfo{114514}"
-        drawable="orgxinkbblackboardandroid" />
+    <item component="ComponentInfo{114514}" drawable="orgtorprojecttorbrowser" />
+    <item component="ComponentInfo{114514}" drawable="orgtrip" />
+    <item component="ComponentInfo{114514}" drawable="orgtvpkirikiri2free10309" />
+    <item component="ComponentInfo{114514}" drawable="orgxinkbblackboardandroid" />
+    <item component="ComponentInfo{114514}" drawable="qzydspeednethelper" />
+    <item component="ComponentInfo{114514}" drawable="remixmyplayer" />
     <item
         component="ComponentInfo{114514}"
         drawable="runsuccfitzuevosuplus" />
@@ -3021,6 +3334,8 @@
     <item
         component="ComponentInfo{114514}"
         drawable="sulisongshelledproscreenshots" />
+    <item component="ComponentInfo{114514}" drawable="synjonescommerce" />
+    <item component="ComponentInfo{114514}" drawable="szszsmkcitizencard" />
     <item
         component="ComponentInfo{tc.everphoto/everphoto.ui.feature.splash.SplashActivity}"
         drawable="tceverphoto" />
@@ -3036,21 +3351,14 @@
     <item
         component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.MainActivity}"
         drawable="tvdanmakubili" />
-    <item
-        component="ComponentInfo{114514}"
-        drawable="tvppsmobile" />
-    <item
-        component="ComponentInfo{114514}"
-        drawable="tvyixiabobo" />
-    <item
-        component="ComponentInfo{114514}"
-        drawable="tzxmshfwzcomshtz" />
-    <item
-        component="ComponentInfo{114514}"
-        drawable="videolike" />
-    <item
-        component="ComponentInfo{114514}"
-        drawable="wenet" />
+    <item component="ComponentInfo{114514}" drawable="tvppsmobile" />
+    <item component="ComponentInfo{114514}" drawable="tvtwitchandroidapp" />
+    <item component="ComponentInfo{114514}" drawable="tvyixiabobo" />
+    <item component="ComponentInfo{114514}" drawable="tzxmshfwzcomshtz" />
+    <item component="ComponentInfo{114514}" drawable="uszoomvideomeetings" />
+    <item component="ComponentInfo{114514}" drawable="videolike" />
+    <item component="ComponentInfo{114514}" drawable="wenet" />
+    <item component="ComponentInfo{114514}" drawable="worldletsgoboosterandroidpro" />
     <item
         component="ComponentInfo{114514}"
         drawable="xeustimbre" />
@@ -3081,181 +3389,4 @@
     <item
         component="ComponentInfo{114514}"
         drawable="zhaoqqmusichacker" />
-    <item
-        component="ComponentInfo{com.android.settings/com.android.settings.GnSettingsTabActivity}"
-        drawable="settings" />
-    <item
-        component="ComponentInfo{com.android.settings/com.android.settings.GridSettings}"
-        drawable="settings" />
-    <item
-        component="ComponentInfo{com.android.settings/com.android.settings.HWSettings}"
-        drawable="settings" />
-    <item
-        component="ComponentInfo{com.android.settings/com.android.settings.MainSettings}"
-        drawable="settings" />
-    <item
-        component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
-        drawable="settings" />
-    <item
-        component="ComponentInfo{com.android.settings/com.oppo.settings.SettingsActivity}"
-        drawable="settings" />+
-    <item
-        component="ComponentInfo{com.android.camera/com.android.camera.Camera}"
-        drawable="camera" />
-    <item
-        component="ComponentInfo{com.android.camera/com.android.camera.CameraActivity}"
-        drawable="camera" />
-    <item
-        component="ComponentInfo{com.android.camera/com.android.camera.CameraLauncher}"
-        drawable="camera" />
-    <item
-        component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}"
-        drawable="camera" />
-    <item
-        component="ComponentInfo{cn.nubia.mms/cn.nubia.mms.tab.MmsMainActivity}"
-        drawable="mms" />
-    <item
-        component="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}"
-        drawable="mms" />
-    <item
-        component="ComponentInfo{com.android.mms/com.android.mms.ui.BootActivity}"
-        drawable="mms" />
-    <item
-        component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationComposer}"
-        drawable="mms" />
-    <item
-        component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}"
-        drawable="mms" />
-    <item
-        component="ComponentInfo{com.android.mms/com.android.mms.ui.MmsTabActivity}"
-        drawable="mms" />
-    <item
-        component="ComponentInfo{com.android.mms/com.android.mms.ui.traditional.MessageLaunchActivity}"
-        drawable="mms" />
-    <item
-        component="ComponentInfo{com.android.mms/com.yulong.android.mms.ui.MmsConversationListActivity}"
-        drawable="mms" />
-    <item
-        component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}"
-        drawable="mms" />
-    <item
-        component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.MmsActivity}"
-        drawable="mms" />
-    <item
-        component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}"
-        drawable="mms" />
-    <item
-        component="ComponentInfo{com.sonyericsson.conversations/com.sonyericsson.conversations.ui.ConversationListActivity}"
-        drawable="mms" />
-    <item
-        component="ComponentInfo{com.zui.mms/com.fancymaker.mms.ui.XuiMmsMainActivity}"
-        drawable="mms" />
-    <item
-        component="ComponentInfo{com.htc.sense.mms/com.htc.sense.mms.ui.ConversationList}"
-        drawable="mms" />
-    <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}"
-        drawable="phone" />
-    <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.activities.TwelveKeyDialer}"
-        drawable="phone" />
-    <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.activities.WtDialerActivity}"
-        drawable="phone" />
-    <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivityAlias}"
-        drawable="phone" />
-    <item
-        component="ComponentInfo{com.android.contacts/com.android.dialer.DialtactsActivity}"
-        drawable="phone" />
-    <item
-        component="ComponentInfo{com.android.contacts/com.oneplus.contacts.activities.OPDialtactsActivity}"
-        drawable="phone" />
-    <item
-        component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}"
-        drawable="phone" />
-    <item
-        component="ComponentInfo{com.android.dialer/com.android.dialer.TwelveKeyDialer}"
-        drawable="phone" />
-    <item
-        component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}"
-        drawable="phone" />
-    <item
-        component="ComponentInfo{com.android.mms/com.yulong.android.contacts.dial.DialActivity}"
-        drawable="phone" />
-    <item
-        component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}"
-        drawable="phone" />
-    <item
-        component="ComponentInfo{com.lewa.PIM/com.android.contacts.activities.DialtactsActivity}"
-        drawable="phone" />
-    <item
-        component="ComponentInfo{com.samsung.android.contacts/com.android.dialer.DialtactsActivity}"
-        drawable="phone" />
-    <item
-        component="ComponentInfo{com.android.dialer/com.android.dialer.allContactsActivity}"
-        drawable="contacts" />
-    <item
-        component="ComponentInfo{com.android.dialer/com.journeyui.contacts.ui.main.ContactMainActivity}"
-        drawable="contacts" />
-    <item
-        component="ComponentInfo{com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity}"
-        drawable="contacts" />
-    <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivityForDialpad}"
-        drawable="contacts" />
-    <item
-        component="ComponentInfo{com.yunos.alicontacts/com.yunos.alicontacts.activities.PeopleActivity2}"
-        drawable="contacts" />
-    <item
-        component="ComponentInfo{com.huawei.contacts/com.android.contacts.activities.DialtactsActivity}"
-        drawable="contacts" />
-    <item
-        component="ComponentInfo{com.android.contacts/com.gioneebj.contacts.vip.ContactsVipActivity}"
-        drawable="contacts" />
-    <item
-        component="ComponentInfo{com.simplemobiletools.contacts/com.simplemobiletools.contacts.activities.SplashActivity.Orange}"
-        drawable="contacts" />
-    <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}"
-        drawable="contacts" />
-    <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
-        drawable="contacts" />
-    <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.PeopleActivityAlias}"
-        drawable="contacts" />
-    <item
-        component="ComponentInfo{com.android.contacts/com.oneplus.contacts.activities.OPPeopleActivity}"
-        drawable="contacts" />
-    <item
-        component="ComponentInfo{com.android.mms/com.yulong.android.contacts.ui.main.ContactMainActivity}"
-        drawable="contacts" />
-    <item
-        component="ComponentInfo{com.blackberry.contacts/com.android.contacts.activities.PeopleDrawerActivity}"
-        drawable="contacts" />
-    <item
-        component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}"
-        drawable="contacts" />
-    <item
-        component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.PeopleActivity}"
-        drawable="contacts" />
-    <item
-        component="ComponentInfo{com.samsung.android.contacts/com.android.contacts.activities.PeopleActivity}"
-        drawable="contacts" />
-    <item
-        component="ComponentInfo{com.sonyericsson.android.socialphonebook/com.sonyericsson.android.socialphonebook.LaunchActivity}"
-        drawable="contacts" />
-    <item
-        component="ComponentInfo{com.sonymobile.android.contacts/com.android.contacts.activities.PeopleActivity}"
-        drawable="contacts" />
-    <item
-        component="ComponentInfo{cn.nubia.contacts/cn.nubia.contacts.mainlist.PeopleActivity}"
-        drawable="contacts" />
-    <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.mainlist.PeopleActivity}"
-        drawable="contacts" />
-    <item
-        component="ComponentInfo{com.zui.contacts/com.android.newcontact.vl.activity.XLaunchActivity}"
-        drawable="contacts" />
 </resources>
