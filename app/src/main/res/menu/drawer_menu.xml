@@ -17,12 +17,12 @@
         <item
             android:id="@+id/apply"
             android:icon="@drawable/ic_apply"
-            android:orderInCategory="300"
+            android:orderInCategory="400"
             android:title="@string/apply" />
         <item
             android:id="@+id/request"
             android:icon="@drawable/ic_request"
-            android:orderInCategory="400"
+            android:orderInCategory="500"
             android:title="@string/request" />
         <item
             android:id="@+id/templates"
@@ -52,5 +52,9 @@
             android:id="@+id/about"
             android:orderInCategory="1000"
             android:title="@string/about" />
+        <item
+            android:id="@+id/settings"
+            android:orderInCategory="1100"
+            android:title="@string/settings" />
     </group>
 </menu>

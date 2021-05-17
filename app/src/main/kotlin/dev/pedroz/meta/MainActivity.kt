@@ -1,6 +1,5 @@
 package dev.pedroz.meta
 
-import com.github.javiersantos.piracychecker.BuildConfig
 import com.github.javiersantos.piracychecker.PiracyChecker
 import dev.jahir.blueprint.ui.activities.BottomNavigationBlueprintActivity
 
@@ -14,6 +13,7 @@ class MainActivity : BottomNavigationBlueprintActivity() {
     override val isDebug: Boolean = BuildConfig.DEBUG
 
     override fun getLicKey(): String = "MIIBIjANBgkqhkiGgKglYGYGihLuihUuhhuBlouBkuiu"
+
 
     override fun getLicenseChecker(): PiracyChecker? {
         destroyChecker()

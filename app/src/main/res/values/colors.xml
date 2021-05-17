@@ -48,10 +48,10 @@
 
     <color name="amoledThemeSurface">#212121</color>
     <color name="amoledThemeOnSurface">#ffffff</color>
-    <color name="amoledThemeOnSurfaceVariant">#b3ffffff</color>
-
     <color name="amoledThemeBackground">#101010</color>
-    <color name="amoledThemeOnBackground">#b3ffffff</color>
+
+    <color name="amoledThemeOnSurfaceVariant">@color/darkThemeOnSurfaceVariant</color>
+    <color name="amoledThemeOnBackground">@color/darkThemeOnBackground</color>
 
     <color name="amoledThemeSnackbarBackgroundColor">#ffffff</color>
     <color name="amoledThemeSnackbarTextColor">#de000000</color>

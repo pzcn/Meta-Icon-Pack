@@ -5,7 +5,7 @@
         True, means yes.
         False, means no.
     -->
-    <bool name="with_drawer_texts">false</bool>
+    <bool name="with_drawer_texts">true</bool>
 
     <!--
         Show a custom image as placeholder while loading icons
@@ -26,7 +26,7 @@
         Do you want the app to read the icons from res/xml/drawable.xml ? (true)
         Or do you prefer the icons to be loaded from res/values/icon_pack.xml ? (false)
     -->
-    <bool name="xml_drawable_enabled">true</bool>
+    <bool name="xml_drawable_enabled">false</bool>
 
     <!--
         Set to true if your icon pack includes adaptive icons. false otherwise
@@ -34,7 +34,7 @@
     <bool name="includes_adaptive_icons">true</bool>
 
     <!-- Icon Pack designer/owner e-mail -->
-    <string name="email">pdzzzcn@gmail.com</string>
+    <string name="email">someone@email.com</string>
 
     <!-- Mail subjects for simple e-mail and requests e-mail -->
     <string name="email_subject">Meta-Icon</string>

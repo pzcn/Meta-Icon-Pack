@@ -426,10 +426,6 @@ abstract class BlueprintActivity : FramesActivity(), RequestCallback {
 
     private fun buildRequest() {
         shouldBuildRequest = false
-        if (!hasStoragePermission) {
-            snackbar(R.string.permission_denied, Snackbar.LENGTH_LONG, snackbarAnchorId)
-            return
-        }
         SendIconRequest.sendIconRequest(this, requestsViewModel?.selectedApps, this)
     }
 
@@ -480,8 +476,6 @@ abstract class BlueprintActivity : FramesActivity(), RequestCallback {
 
     override fun onRequestError(reason: String?, e: Throwable?) {
         super.onRequestError(reason, e)
-        reason ?: return
-        if (!reason.hasContent()) return
         showRequestDialog {
             message(string(R.string.requests_upload_error, reason))
         }

@@ -36,9 +36,9 @@
         <item>Github项目地址</item>
     </string-array>
     <string-array name="home_list_descriptions">
-        <item>为MIUI准备的项目，同时也是本图标包的起源项目。</item>
+        <item>为MIUI准备的项目，也是本图标包的起源项目。</item>
         <item>获得项目的最新进展以及更快的适配。</item>
-        <item>感谢 Blueprint，基于此构建本应用。</item>
+        <item>感谢 Blueprint，本应用基于此构建。</item>
     </string-array>
     <string-array name="home_list_icons">
         <item>ic_miui</item>

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-<version>1</version>
-<category title="全部" />
+    <version>1</version>
+
+    <category title="全部" />
     <item drawable="aircomadobepstouchphone" />
     <item drawable="aircomgamebrainhocus" />
     <item drawable="airthixsciencesensebeaker" />
@@ -1151,19 +1152,22 @@
     <item drawable="yycxkworkshop" />
     <item drawable="zhaoapkmodifier" />
     <item drawable="zhaoqqmusichacker" />
-<category title="热门" />
+
+    <category title="热门" />
     <item drawable="comtencentmobileqq" />
     <item drawable="comtencentmm" />
     <item drawable="comegandroidalipaygphone" />
     <item drawable="tvdanmakubili" />
     <item drawable="comzhihuandroid" />
     <item drawable="combaidubaidumap" />
-<category title="购物" />
+
+    <category title="购物" />
     <item drawable="comtaobaotaobao" />
     <item drawable="comjingdongappmall" />
     <item drawable="comxunmengpinduoduo" />
     <item drawable="comsmzdmclientandroid" />
-<category title="生活" />
+
+    <category title="生活" />
     <item drawable="comcainiaowireless" />
     <item drawable="comctclient" />
     <item drawable="comsinovatechunicomui" />
